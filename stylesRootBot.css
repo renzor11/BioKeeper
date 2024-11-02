@@ -228,4 +228,5 @@ color: rgb(65,159, 52);
     background-size: 190%;
     background-position: center;
     cursor:pointer;
+    z-index:200;
 }
